@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "cnkq3gkr4s9lvfqo715g",
+    "hash": "c425f906df7346391542498c4976f9f027620526f813ce19fbe5f2cc00a0c460",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "bdhdjejshdbjejdbd",
+    "content": "Yes.",
+    "language": "ENGLISH",
+    "translation": "Yes.",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7vlg",
+    "hash": "ac3d0179a91b67021b7442366e0e7b52cf2bc910eb807070ccf5881f40ae1a08",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Bree ghj",
+    "content": "Great\nOf this app all the great ideas I get and all the videos that are awesome to watch this awesome great I love the ideas I love the way it\u2019s set up. It\u2019s easy and versatile and they can open it always running. It\u2019s easy for me to login and save things, save the things I like, and save things up.",
+    "language": "ENGLISH",
+    "translation": "Great\nOf this app all the great ideas I get and all the videos that are awesome to watch this awesome great I love the ideas I love the way it\u2019s set up. It\u2019s easy and versatile and they can open it always running. It\u2019s easy for me to login and save things, save the things I like, and save things up.",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7ve0",
+    "hash": "78198f367085b90257f005365e0fbda773b1a6867eb7236f779099ef9d86b9ed",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "AllyssaE",
+    "content": "FIX THIS APP IT NEEDS A UPDATE ASAP\nIts so glitchy and the screen freezes and turns black all the time and its annoying this app needs a update really bad!!\nAND it doesn't let me scroll to watch videos on my for you page!! \n\nPlease fix asap\n\n             -Pinterest user",
+    "language": "ENGLISH",
+    "translation": "FIX THIS APP IT NEEDS A UPDATE ASAP\nIts so glitchy and the screen freezes and turns black all the time and its annoying this app needs a update really bad!!\nAND it doesn't let me scroll to watch videos on my for you page!! \n\nPlease fix asap\n\n             -Pinterest user",
+    "issues": [
+      {
+        "title": "App freezes and turns black",
+        "description": "The Pinterest app freezes and turns black, causing disruptions to the user experience.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      },
+      {
+        "title": "Inability to scroll to watch videos on For You page",
+        "description": "Unable to scroll to watch videos on the For You page, resulting in inconvenience to the user.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "App Update",
+        "description": "Implement a major update to resolve performance issues and bugs.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "PERFORMANCE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo70j0",
+    "hash": "0ece3ebe5da5a2e7714e90fafcf96a91d260dcd2eb5bc19ad2a8b6ffd1397995",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "stitch ! \u2601\ufe0f\ud83c\udf31\ud83e\udd0d",
+    "content": "AMAZING\n5 STAR! the new double tap feature is SUCH a game changer! \ud83e\udd0d",
+    "language": "ENGLISH",
+    "translation": "AMAZING\n5 STAR! the new double tap feature is SUCH a game changer! \ud83e\udd0d",
+    "issues": [],
+    "suggestions": [
+      {
+        "title": "Extend the double tap feature",
+        "description": "Expand the double tap feature to other areas of the app.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "USER_INTERFACE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo70k0",
+    "hash": "7aa12b3503ac2d78290dd77ea582101a045629bf5b40c77b6424467efba9a797",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Meg12345678900",
+    "content": "Can\u2019t connect on my iPad with my google account",
+    "language": "ENGLISH",
+    "translation": "Can\u2019t connect on my iPad with my google account",
+    "issues": [
+      {
+        "title": "Failed to connect using Google account",
+        "description": "Unable to connect to Pinterest account using Google account on iPad",
+        "steps": [],
+        "severity": "HIGH",
+        "category": "ACCOUNT_SECURITY"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6vag",
+    "hash": "4a8e70a7e337b4adf28f36f6874b2455b32297fd3849638f0028c05f9044ffcf",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "stella the mentally unstable",
+    "content": "reverse the way the photos open and close in the new update\npleeeeeeeeeeaaase \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\nif u dont change just know that im big and buff and alpha and will come after u \ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\npinterest\u2026\u2026.this isnt u\u2026\u2026\u2026.ik u can do this\u2026\u2026\u2026\u2026\u2026\u2026and just remember\u2026\u2026\u2026\u2026..im buff af if u dont \ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94",
+    "language": "ENGLISH",
+    "translation": "reverse the way the photos open and close in the new update\npleeeeeeeeeeaaase \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\nif u dont change just know that im big and buff and alpha and will come after u \ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\ud83d\udc3a\npinterest\u2026\u2026.this isnt u\u2026\u2026\u2026.ik u can do this\u2026\u2026\u2026\u2026\u2026\u2026and just remember\u2026\u2026\u2026\u2026..im buff af if u dont \ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83d\udc94",
+    "issues": [
+      {
+        "title": "Photos open and close incorrectly in new update",
+        "description": "The way photos open and close in the new update is not functioning properly.",
+        "steps": [],
+        "severity": "LOW",
+        "category": "UNKNOWN"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Reverse photo opening/closing in the new update",
+        "description": "Reverse the way photos open and close in the new update.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "USER_INTERFACE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6o70",
+    "hash": "e7d348980f2a81eed581c29083e89fb5fdf473b387b8fe311c33218a39f1d0a9",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Kieranc1",
+    "content": "Good but then terrible\nWas having a good experience on Pinterest until they randomly suspended my account for no reason, they wouldn't tell me why and when I submitted for a review they still didn't reactivate my account or tell my why I was suspended. Not happy!",
+    "language": "ENGLISH",
+    "translation": "Good but then terrible\nWas having a good experience on Pinterest until they randomly suspended my account for no reason, they wouldn't tell me why and when I submitted for a review they still didn't reactivate my account or tell my why I was suspended. Not happy!",
+    "issues": [
+      {
+        "title": "Account suspended without reason",
+        "description": "Account was suspended without explanation and no response from Pinterest after submitting a review.",
+        "steps": [],
+        "severity": "HIGH",
+        "category": "ACCOUNT_SECURITY"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7gug",
+    "hash": "57b7d71cca12764472262d53db9479ae59a1100bc3b4feb0403d6201bc8ce77d",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Abdul Moeez Qurshi",
+    "content": "Satisfactionary\nLoved that app and I recommend everyone to use it!",
+    "language": "ENGLISH",
+    "translation": "Satisfactionary\nLoved that app and I recommend everyone to use it!",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6l00",
+    "hash": "1f6f9464c18ce3207863ba97e2d83879b114c95903be50ce404461b1d9f96aea",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "pro-truth",
+    "content": "Does not remember\nThis app does not remember where you were after being closed or switched to another app. \n\nIt also freezes & crashes often during navigation between screens.",
+    "language": "ENGLISH",
+    "translation": "Does not remember\nThis app does not remember where you were after being closed or switched to another app. \n\nIt also freezes & crashes often during navigation between screens.",
+    "issues": [
+      {
+        "title": "App does not remember user's location",
+        "description": "The app does not retain its location or session after being closed or switched to another app.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "PERFORMANCE"
+      },
+      {
+        "title": "Freezes and crashes during navigation",
+        "description": "The app freezes and crashes often during navigation between screens.",
+        "steps": [],
+        "severity": "HIGH",
+        "category": "PERFORMANCE"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Improve navigation and memory",
+        "description": "Improve the app's ability to remember the user's position and reduce freezing and crashing during navigation.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "PERFORMANCE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo75o0",
+    "hash": "10a4acd97c00365e7017e83d5db5117a2ac4f62a4bdf0b15bea1566d7cd7199a",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "\ud83c\udfb5Addy\ud83c\udfb5",
+    "content": "\ud83d\ude36\nSlay",
+    "language": "ENGLISH",
+    "translation": "\ud83d\ude36\nSlay",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7o90",
+    "hash": "2a16e7bfd4072566cceb1308fb8b42025f6fbdc9f0f9c8ab161ddc307a5040bc",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Abigakom",
+    "content": "Best app there is\nThis app is very nice it change my life u guys should download it quick",
+    "language": "ENGLISH",
+    "translation": "Best app there is\nThis app is very nice it change my life u guys should download it quick",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo70n0",
+    "hash": "74948a362338da5244d8ed4ab082a7f7d7c0feefe1203012b935fb71286a5fdb",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "jiji loves bunnies\ud83d\udc30",
+    "content": "recommendations\nI love this app so much. However, when I click on a pin to look at it, white dots for similar products appear everywhere on the pin and it get annoying sometimes. It should appear only if I press the button at the bottom right of the screen and not be automatic. \n\nThank you so much!",
+    "language": "ENGLISH",
+    "translation": "recommendations\nI love this app so much. However, when I click on a pin to look at it, white dots for similar products appear everywhere on the pin and it get annoying sometimes. It should appear only if I press the button at the bottom right of the screen and not be automatic. \n\nThank you so much!",
+    "issues": [
+      {
+        "title": "Automatic appearance of similar products when viewing pins",
+        "description": "The 'similar products' feature appears automatically when viewing a pin, which is annoying and should only appear when pressing the button at the bottom right of the screen.",
+        "steps": [],
+        "severity": "LOW",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Customizable similar products feature",
+        "description": "Make the similar products feature appear only when the user manually triggers it by pressing the button at the bottom right of the screen.",
+        "reason": "This will reduce annoyance and improve user experience.",
+        "importance": "MEDIUM",
+        "category": "USER_INTERFACE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6tsg",
+    "hash": "3769233b72164142f48a2750cc6150683ddb16627390d089b6783c8f810d54fe",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "23Natalie23",
+    "content": "Fantastic!\nEasy to use interactive and creative.",
+    "language": "ENGLISH",
+    "translation": "Fantastic!\nEasy to use interactive and creative.",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7lcg",
+    "hash": "13e58b668311f099ca54a1b11fc8de6a14d755b4be87da26db5688f59dd475d9",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Ashik1121",
+    "content": "Bugs in New update\nWith the new update, i cant able to use the screen-share option and there is a delay in double ticks. Please fix these bugs asap.",
+    "language": "ENGLISH",
+    "translation": "Bugs in New update\nWith the new update, i cant able to use the screen-share option and there is a delay in double ticks. Please fix these bugs asap.",
+    "issues": [
+      {
+        "title": "Screen-share option not working",
+        "description": "The screen-share option is not functional in the new update.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "PERFORMANCE"
+      },
+      {
+        "title": "Double-tap delay",
+        "description": "There is a delay in the double-tap functionality in the new update.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "UNKNOWN"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Fix screen-share option",
+        "description": "Screen-share option is not working after the latest update.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "USER_INTERFACE"
+      },
+      {
+        "title": "Fix delay in double-tapping",
+        "description": "There is a delay in double-tapping after the latest update.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "PERFORMANCE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6o8g",
+    "hash": "9de7a2fdf07b6defb71b2d510d5c82d95b3dd8b6df60581d163d0263202addba",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "ju\u00f1\u00f1iee",
+    "content": "Gone down hill!\nI have used Pinterest for several years now, recently my feed is flooded with ads. It\u2019s so frustrating. I am considering deleting the app which is a shame because I truly love finding inspiration for literally everything on there",
+    "language": "ENGLISH",
+    "translation": "Gone down hill!\nI have used Pinterest for several years now, recently my feed is flooded with ads. It\u2019s so frustrating. I am considering deleting the app which is a shame because I truly love finding inspiration for literally everything on there",
+    "issues": [
+      {
+        "title": "Feed flooded with ads",
+        "description": "Advertisements have taken over the feed, causing frustration and considering deleting the app.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "ADS"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7n70",
+    "hash": "3142f795d44398b7ac189849c510e6689f46f7394a1a9c7fb1dd73e0f263e395",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Francisco Juarbe",
+    "content": "Exactamente",
+    "language": "SPANISH",
+    "translation": "Exactly",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo70u0",
+    "hash": "48d403455c79681066de530dad3aeebdc610165a9d2eb85bc757e711a95ebf4c",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "izzy( \u0361\u00b0 \u035c\u0296 \u0361\u00b0 )",
+    "content": "great\nlove this app sm but the adds are getting to be a lot every 3 pictures are a difffrent add i\u2019m fine with one every 8 or even 7 but it feels like i see more adds then pictures\u2026.",
+    "language": "ENGLISH",
+    "translation": "great\nlove this app sm but the adds are getting to be a lot every 3 pictures are a difffrent add i\u2019m fine with one every 8 or even 7 but it feels like i see more adds then pictures\u2026.",
+    "issues": [
+      {
+        "title": "Too many ads in the app",
+        "description": "Advertisements appear too frequently, disrupting the user experience. Ads appear every 3 pictures, which is overwhelming.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "ADS"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Reduce ad frequency",
+        "description": "Show ads every 8 or 7 pictures, not every 3.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "ADS"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6t50",
+    "hash": "b7d454d4beafbf15185705d3489f390043c575a319c498cbde47d0a293628ff2",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Jabezeriah",
+    "content": "Great App. Great functions. Love it!\nEasy to use, and simple user friendly interface.",
+    "language": "ENGLISH",
+    "translation": "Great App. Great functions. Love it!\nEasy to use, and simple user friendly interface.",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6vgg",
+    "hash": "f5aee99dd60a74eef93dbef1c5d75a549d8c39fab8f7bb8f34b35b1491600d1a",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "\u2728\ud83e\udd70\ud83d\udc97\ud83d\udc96\ud83d\udc98\u2764\ufe0f\ud83d\udc93",
+    "content": "Fix widgets\nWith the new update, my Pinterest widgets on my iPhone are really weird. They all have a white border around it.",
+    "language": "ENGLISH",
+    "translation": "Fix widgets\nWith the new update, my Pinterest widgets on my iPhone are really weird. They all have a white border around it.",
+    "issues": [
+      {
+        "title": "White border around widgets",
+        "description": "Widgets on the Pinterest app have a white border around them since the latest update.",
+        "steps": [],
+        "severity": "LOW",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Remove white border from widgets",
+        "description": "Remove the white border around widgets in the app.",
+        "reason": "This will improve user experience.",
+        "importance": "MEDIUM",
+        "category": "USER_INTERFACE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6nq0",
+    "hash": "d085b769b5af3c201af1c3bffa7fb54d3ef10c98b983512db64b5134545cf4d0",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "violet tomoe",
+    "content": "Can\u2019t access Pinterest anymore\nI can\u2019t login to account or sign up for a new account",
+    "language": "ENGLISH",
+    "translation": "Can\u2019t access Pinterest anymore\nI can\u2019t login to account or sign up for a new account",
+    "issues": [
+      {
+        "title": "Cannot access account",
+        "description": "Unable to login to existing account.",
+        "steps": [],
+        "severity": "CRITICAL",
+        "category": "ACCOUNT_SECURITY"
+      },
+      {
+        "title": "Cannot sign up for a new account",
+        "description": "Unable to create a new account.",
+        "steps": [],
+        "severity": "CRITICAL",
+        "category": "ACCOUNT_SECURITY"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7vv0",
+    "hash": "1c89b9c18921fbb6de5a1aed168f1ec9d29ba9395afd166b01ca638da3ae2a15",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "JustABoredGirl",
+    "content": "Hearted posts???\nWhere in the world do they go if they aren\u2019t on some \u201csecret board\u201d, which I don\u2019t have??? I\u2019ve been looking for my hearted posts for years and there\u2019s no option to see them at all??????",
+    "language": "ENGLISH",
+    "translation": "Hearted posts???\nWhere in the world do they go if they aren\u2019t on some \u201csecret board\u201d, which I don\u2019t have??? I\u2019ve been looking for my hearted posts for years and there\u2019s no option to see them at all??????",
+    "issues": [
+      {
+        "title": "Disappearance of hearted posts",
+        "description": "Hearted posts are not visible and there is no option to view them, despite searching for years.",
+        "steps": [],
+        "severity": "HIGH",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "View hearted posts",
+        "description": "Allow users to view their hearted posts.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "USER_INTERFACE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7au0",
+    "hash": "81af9642963af7be231132870ad2a9c245760dc466d21b817d100bbd42d35519",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Abdullah Bukhariy",
+    "content": "Best App\nReally like the way the app works: fast, easy, convenient",
+    "language": "ENGLISH",
+    "translation": "Best App\nReally like the way the app works: fast, easy, convenient",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6ung",
+    "hash": "1784a4cf76eb254ad485c6586216f56ed48a30ed4c2f71d3034c0bc609017d23",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Kat-irene",
+    "content": "ads ads ads\nthe amount of ads more than doubled since the last time I was on the app :(",
+    "language": "ENGLISH",
+    "translation": "ads ads ads\nthe amount of ads more than doubled since the last time I was on the app :(",
+    "issues": [
+      {
+        "title": "Increased number of ads",
+        "description": "The amount of ads has more than doubled since the last time I was on the app.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "ADS"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6uug",
+    "hash": "52d39a3a4307fb1e66dd6b7b46f382ba4608ff6bd529c9b9df63257b3fc027bd",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Corintveld",
+    "content": "Stuck with it.\nHappily addicted. Keeps crashing when I try to clean up. Very annoying. And I was not even going to mention the adds. So aggressive.\nPeople will get fed up with that and stop using it. You probably might end up having to pay when you want to stop using it, I seriously hope not that the world is going in that direction or are we already?",
+    "language": "ENGLISH",
+    "translation": "Stuck with it.\nHappily addicted. Keeps crashing when I try to clean up. Very annoying. And I was not even going to mention the adds. So aggressive.\nPeople will get fed up with that and stop using it. You probably might end up having to pay when you want to stop using it, I seriously hope not that the world is going in that direction or are we already?",
+    "issues": [
+      {
+        "title": "App crashes when trying to clean up",
+        "description": "The app crashes when attempting to clean up, which is an annoying experience for the user.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      },
+      {
+        "title": "Aggressive advertising",
+        "description": "The ads on Pinterest are overbearing and aggressive, which may lead to users becoming frustrated and potentially abandoning the platform.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "ADS"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7usg",
+    "hash": "98388e5d3006c775274f86b44d9af5ca99171baba96047752a1a1cb1602e016e",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "evav2044",
+    "content": "My favorite app, but very buggy\nI love using Pinterest and i get a lot of inspiration from it. However everytime i do use it i experience some time of issue or bug. I can name a lot, for example, when i click on some pins it says \u201cremoved by creator\u201d even though its not. Also it says im following some people when i never interacted with their profile.  Another bug is some posts say they were \u201cuploaded\u201d by me when they were not.",
+    "language": "ENGLISH",
+    "translation": "My favorite app, but very buggy\nI love using Pinterest and i get a lot of inspiration from it. However everytime i do use it i experience some time of issue or bug. I can name a lot, for example, when i click on some pins it says \u201cremoved by creator\u201d even though its not. Also it says im following some people when i never interacted with their profile.  Another bug is some posts say they were \u201cuploaded\u201d by me when they were not.",
+    "issues": [
+      {
+        "title": "Incorrect pin removal display",
+        "description": "Pins display 'removed by creator' even though they are not removed.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      },
+      {
+        "title": "Incorrect following relationships",
+        "description": "Shown as following people who were never interacted with.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      },
+      {
+        "title": "Incorrect post attribution",
+        "description": "Posts are attributed to the user as if they uploaded them when they did not.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo706g",
+    "hash": "d3ee1943779e4ff3863894f8f47d8deda3fdc24ae4278d6c7f5b2ce2d2d525e3",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "HQ6432",
+    "content": "I love this app\nIt has everything I\u2019ve ever wanted. But whenever I try to comment it just puts the text at the very top and i can\u2019t get it to work",
+    "language": "ENGLISH",
+    "translation": "I love this app\nIt has everything I\u2019ve ever wanted. But whenever I try to comment it just puts the text at the very top and i can\u2019t get it to work",
+    "issues": [
+      {
+        "title": "Commenting issue on Pinterest",
+        "description": "When trying to comment, the text disappears and cannot be placed at the intended location.",
+        "steps": [],
+        "severity": "LOW",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6uo0",
+    "hash": "9d4377bb3386f49cca869a6d0d5adf296c45b3cb7e8591f32652f3861cf1bd32",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Chelestina111",
+    "content": "Too many Ads\nThe constant ads have destroyed my Pinterest experience, there\u2019s too much going on now you can\u2019t enjoy all the beautiful photos.",
+    "language": "ENGLISH",
+    "translation": "Too many Ads\nThe constant ads have destroyed my Pinterest experience, there\u2019s too much going on now you can\u2019t enjoy all the beautiful photos.",
+    "issues": [
+      {
+        "title": "Too many ads disrupt the user experience",
+        "description": "Constant ads overwhelm the platform, making it difficult to enjoy the content and browse through images.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "ADS"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Reduce Ad Load",
+        "description": "Reduce the number of ads displayed on the platform.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "ADS"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6kk0",
+    "hash": "79cbd40297509f40072f9a83294bd6af2a0355c109c26c74c57657a7bf763141",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Nanapooski",
+    "content": "IMPOSIBLE to navigate\nI signed up for a course (Think Gita) and was supposed to find my course materials using this app - zero luck and no customer support links anywhere.  Disappointing. I\u2019ll update review if I ever do find my course materials.",
+    "language": "ENGLISH",
+    "translation": "IMPOSIBLE to navigate\nI signed up for a course (Think Gita) and was supposed to find my course materials using this app - zero luck and no customer support links anywhere.  Disappointing. I\u2019ll update review if I ever do find my course materials.",
+    "issues": [
+      {
+        "title": "Impossible to navigate the app",
+        "description": "The app is difficult to navigate, making it hard to find what you're looking for.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      },
+      {
+        "title": "Difficulty finding course materials",
+        "description": "Signed up for a course, but unable to find course materials despite customer support links being nowhere to be found.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6ur0",
+    "hash": "fc7c0c6fede1ea16d52d4a8c3a94403c49d76122636132f5c3a9d9a0fa9947a8",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Cournia",
+    "content": "i need help\nit won\u2019t let me in so i\u2019m stuck!now i can\u2019t look at pinterest",
+    "language": "ENGLISH",
+    "translation": "i need help\nit won\u2019t let me in so i\u2019m stuck!now i can\u2019t look at pinterest",
+    "issues": [
+      {
+        "title": "Cannot log in to Pinterest",
+        "description": "Unable to access Pinterest due to login issues, resulting in being stuck and unable to use the platform.",
+        "steps": [],
+        "severity": "HIGH",
+        "category": "ACCOUNT_SECURITY"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6vg0",
+    "hash": "02dab4d8432f0765cb744bb54f237cd974ad3f4b7aabef30a38f7101b01262de",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Zspi fanai",
+    "content": "Pintrest is soooooooooooo important idk how to say it but i lovedddddddddddd lovedddddddd itttt idk what ill do without pintrest\ud83d\ude3b\ud83e\udd0d5 star",
+    "language": "ENGLISH",
+    "translation": "Pintrest is soooooooooooo important idk how to say it but i lovedddddddddddd lovedddddddd itttt idk what ill do without pintrest\ud83d\ude3b\ud83e\udd0d5 star",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6n1g",
+    "hash": "90d1c0418f6a14fa92caf48035f68d929d871ff8ff377bd6af0f488d3f760544",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Lime1750",
+    "content": "Unable to pin from safari\nSuper annoying that I can\u2019t pin from safari.",
+    "language": "ENGLISH",
+    "translation": "Unable to pin from safari\nSuper annoying that I can\u2019t pin from safari.",
+    "issues": [
+      {
+        "title": "Unable to pin from Safari",
+        "description": "Cannot pin images from Safari, despite being able to do so from other browsers.",
+        "steps": [],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Pin from Safari",
+        "description": "Enable pinning images from Safari",
+        "reason": "This will improve user experience.",
+        "importance": "MEDIUM",
+        "category": "USER_INTERFACE"
+      }
+    ]
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6n0g",
+    "hash": "58c6feac3a35b651f92f935329366e96bc01e801f2556853def2ce1a9b985adc",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "olivia\ud83c\udf80333",
+    "content": "too many ads\nliterally unusable",
+    "language": "ENGLISH",
+    "translation": "too many ads\nliterally unusable",
+    "issues": [
+      {
+        "title": "Too many ads",
+        "description": "The app is unusable due to the excessive number of ads.",
+        "steps": [],
+        "severity": "HIGH",
+        "category": "ADS"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6nh0",
+    "hash": "5b0959cefa96113ee6214bd608a14c9b82b616d42f8481b0acd46ea9f359612f",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "2\u00b04\u00b01\u00b01\u00b01\u00b02",
+    "content": "Pinterest\nI can\u2019t log into Pinterest when ever I log into Pinterest it says account deactivated",
+    "language": "ENGLISH",
+    "translation": "Pinterest\nI can\u2019t log into Pinterest when ever I log into Pinterest it says account deactivated",
+    "issues": [
+      {
+        "title": "Account deactivated and unable to log in",
+        "description": "Account is deactivated and unable to log in to Pinterest despite attempting to log in.",
+        "steps": [],
+        "severity": "HIGH",
+        "category": "ACCOUNT_SECURITY"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6v60",
+    "hash": "1450128cc1f19f12f176406b1812ddbe565204744c5e107f5c50e114d0dcf69a",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "Kozmicgotchi",
+    "content": "The collage update is not showing up for iOS devices\nThe new update for Pinterest collages is not working on my iPhone and iPad as I recently got to play around with it for a little bit before it completely crashed and kicked me out of the app then when I tried to make another collage the button for creating collages was no where to be found when pressing on the plus button it only gives me the original two options to either create a pin or board but nothing insight for making a collage  my app is fully updated to the lastest update I tried clearing my cache, logging in and logging out and then finally trying to find it on my iPad yet nothing has worked !!!! Please fix this issue !!!! Thank youuu!!!!",
+    "language": "ENGLISH",
+    "translation": "The collage update is not showing up for iOS devices\nThe new update for Pinterest collages is not working on my iPhone and iPad as I recently got to play around with it for a little bit before it completely crashed and kicked me out of the app then when I tried to make another collage the button for creating collages was no where to be found when pressing on the plus button it only gives me the original two options to either create a pin or board but nothing insight for making a collage  my app is fully updated to the lastest update I tried clearing my cache, logging in and logging out and then finally trying to find it on my iPad yet nothing has worked !!!! Please fix this issue !!!! Thank youuu!!!!",
+    "issues": [
+      {
+        "title": "Collage update not showing up on iOS devices",
+        "description": "Collage update is not available on iOS devices, causing issues with creating collages.",
+        "steps": [
+          "Update the app to the latest version",
+          "Clear cache and log in/log out"
+        ],
+        "severity": "MEDIUM",
+        "category": "USER_INTERFACE"
+      },
+      {
+        "title": "Collage feature not available on iPhone and iPad",
+        "description": "Collage creation button is missing after updating the app.",
+        "steps": [
+          "Try to create a collage by clicking the plus button"
+        ],
+        "severity": "HIGH",
+        "category": "USER_INTERFACE"
+      }
+    ],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo6ne0",
+    "hash": "344c245a1e80cd92bbe6e913ce7e08934f70bee2a62a2f301515a2855f6c32f1",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "jytftju yrnygemuxny",
+    "content": "Amazing good for food ideas",
+    "language": "ENGLISH",
+    "translation": "Amazing good for food ideas",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo796g",
+    "hash": "4832efde2d2b12d5911811e9c3de18fdf3e9a9e8b081cc84f40829c2011ede22",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "rstambau",
+    "content": "Excellent platform!\nWe are loving this platform. Easy to use and has so many great features.",
+    "language": "ENGLISH",
+    "translation": "Excellent platform!\nWe are loving this platform. Easy to use and has so many great features.",
+    "issues": [],
+    "suggestions": []
+  },
+  {
+    "id": "cnkq3gkr4s9lvfqo7urg",
+    "hash": "71e5d5dcf73a3b306cf7febea07b9ca0275c0b24e4a71902f4ea522fd8e29766",
+    "context": "Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\"pins\") and organize them on personalized boards, as well as share and collaborate with others.",
+    "categories": [
+      "USER_INTERFACE",
+      "ACCOUNT_SECURITY",
+      "ADS",
+      "CONTENT_DISCOVERY",
+      "PRIVACY_SETTINGS",
+      "PERFORMANCE"
+    ],
+    "source": "APP_STORE",
+    "customer": "vicky767jean",
+    "content": "Ads are 50% of pins or more\nScrolling through the app is like a minefield for accidentally opening up ads. I used to love Pinterest, but it\u2019s so clogged up with ads I just feel exploited by even opening it. I close it within a few seconds of opening it because of all the ads.",
+    "language": "ENGLISH",
+    "translation": "Ads are 50% of pins or more\nScrolling through the app is like a minefield for accidentally opening up ads. I used to love Pinterest, but it\u2019s so clogged up with ads I just feel exploited by even opening it. I close it within a few seconds of opening it because of all the ads.",
+    "issues": [
+      {
+        "title": "Too many ads",
+        "description": "The app is cluttered with ads, making it difficult to use and navigate. The ads take up a significant portion of the pins, making it feel like a minefield when scrolling through the app.",
+        "steps": [],
+        "severity": "HIGH",
+        "category": "ADS"
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Reduce ads",
+        "description": "Decrease the number of ads displayed in the app.",
+        "reason": "This will improve user experience.",
+        "importance": "HIGH",
+        "category": "ADS"
+      }
+    ]
+  }
+]

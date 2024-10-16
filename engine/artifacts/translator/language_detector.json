@@ -1,0 +1,26 @@
+{
+  "detect_language.predictor": {
+    "demos": [
+      {
+        "input": "{\"feedback\":\"I going to order a nother one\\nGreat containers\"}",
+        "reasoning": "The feedback provided is in English, despite minor grammatical errors.",
+        "output": "{\"language\":\"ENGLISH\"}"
+      },
+      {
+        "input": "{\"feedback\":\"Good BAg\\nPOGERRS\"}",
+        "reasoning": "The words \"Good\" and \"BAg\" are both common and correctly spelled in English. The word \"POGERRS\" seems to be a misspelling or a slang term, but it resembles \"POGGERS,\" which is English slang.",
+        "output": "{\"language\":\"ENGLISH\"}"
+      },
+      {
+        "input": "{\"feedback\":\"Funciona muy bien con las notificaciones por email y tambi\u00e9n es f\u00e1cil de organizar mis b\u00fasquedas.\"}",
+        "reasoning": "The feedback contains words and sentence structure characteristic of Spanish.",
+        "output": "{\"language\":\"SPANISH\"}"
+      },
+      {
+        "input": "{\"feedback\":\"Satisfaite\\nTr\u00e8s \u00e9tonn\u00e9e de tous ces mauvais commentaires. \\n\\nJ\u2019ai command\u00e9 un parfum en janvier 91 euros. \\nRe\u00e7us assez vite et aucuns probl\u00e8mes. \\nJ\u2019ai eu tr\u00e8s peur apr\u00e8s avoir pass\u00e9 commande au vue des commentaires et avis n\u00e9gatifs. Mais finalement non ils sont bien !\"}",
+        "reasoning": "The feedback contains several French words and phrases such as \"Satisfaite\", \"Très étonnée\", \"J’ai commandé\", and \"Reçus assez vite\". These indicate that the language is French.",
+        "output": "{\"language\":\"FRENCH\"}"
+      }
+    ]
+  }
+}

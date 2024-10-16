@@ -1,0 +1,14 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Clank",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": "5432",
+      "Username": "postgres",
+      "Password": "postgres",
+      "SSLMode": "disable",
+      "MaintenanceDB": "postgres"
+    }
+  }
+}

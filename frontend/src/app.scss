@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-feature-settings:
+    "rlig" 1,
+    "calt" 1;
+  font-synthesis: none;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  scroll-behavior: smooth;
+  color-scheme: only light;
+  background-color: #ffffff;
+}
+
+@font-face {
+  font-family: "Cal Sans";
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+  src: url("/fonts/cal-sans.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter Sans";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+  font-named-instance: "Regular";
+  src: url("/fonts/inter-sans.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter Sans";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: italic;
+  font-named-instance: "Italic";
+  src: url("/fonts/inter-sans-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Geist Sans";
+  font-weight: 100 900;
+  font-display: swap;
+  font-synthesis: none;
+  src: url("/fonts/geist-sans.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Geist Mono";
+  font-weight: 100 900;
+  font-display: swap;
+  font-synthesis: none;
+  src: url("/fonts/geist-mono.woff2") format("woff2");
+}
+
+@layer base {
+  :root {
+    /* stylelint-disable value-keyword-case */
+    --font-cal-sans: "Cal Sans", "Cal Sans fallback", ui-serif, Georgia, Cambria, times new roman, Times, serif;
+    --font-inter-sans: "Inter Sans", "Inter Sans fallback", system-ui, Avenir, Helvetica, Arial, sans-serif;
+    --font-geist-sans: "Geist Sans", "Geist Sans fallback", ui-sans-serif, system-ui, -apple-system,
+      "BlinkMacSystemFont", "Inter Sans", "Inter Sans fallback", "Segoe UI", "Roboto", sans-serif, "Apple Color Emoji",
+      "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-geist-mono: "Geist Mono", "Geist Mono fallback", ui-monospace, "SFMono-Regular", "Roboto Mono", "Menlo",
+      "Monaco", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace;
+    /* stylelint-enable value-keyword-case */
+
+    --background: 0 0% 100%;
+    --foreground: 191 88% 10%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 191 88% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 191 88% 10%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --primary: 221.2 83.2% 53.3%;
+    --primary-lighter: 217.22 91.22% 59.8%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-darker: 214.3 31.8% 91.4%;
+    --secondary-foreground: 191 88% 10%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 191 88% 10%;
+    --constructive: 142 76.22% 36.3%;
+    --constructive-foreground: 210 40% 98%;
+    --destructive: 0 72.22% 50.59%;
+    --destructive-foreground: 210 40% 98%;
+    --ring: 221.2 83.2% 53.3%;
+    --radius: 0.5rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  .bg-primary-gradient {
+    @apply from-primary-lighter bg-gradient-to-b to-primary;
+  }
+
+  .text-primary-gradient {
+    @apply bg-primary-gradient bg-clip-text text-transparent;
+  }
+
+  .bg-secondary-gradient {
+    @apply to-secondary-darker bg-gradient-to-b from-secondary;
+  }
+
+  .text-secondary-gradient {
+    @apply bg-secondary-gradient bg-clip-text text-transparent;
+  }
+
+  .bg-primary-foreground-gradient {
+    @apply bg-gradient-to-b from-neutral-100 to-neutral-300;
+  }
+}

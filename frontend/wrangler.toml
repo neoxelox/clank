@@ -1,0 +1,9 @@
+#:schema node_modules/wrangler/config-schema.json
+
+name = "frontend" #:replace {NAME}-{$CLANK_ENVIRONMENT}
+compatibility_date = "2024-06-14"
+pages_build_output_dir = ".svelte-kit/cloudflare"
+
+[dev]
+ip = "0.0.0.0"
+port = 3333

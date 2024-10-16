@@ -1,0 +1,26 @@
+{
+  "generate_issues.predictor": {
+    "demos": [
+      {
+        "input": "{\"context\":\"Tripadvisor is a travel platform providing reviews, recommendations, and bookings for hotels, restaurants, attractions, and experiences worldwide. Users can browse millions of traveler reviews, compare prices, and make reservations directly through the app.\",\"feedback\":\"Worthless\\nBuggy beyond belief. Just updated. 21 Feb 2024. Filter stuck on availability. Tried to swap for traveler ranking and no matter how many reboots, 6 attempts at chging to TR, nothing worked. Just getting a simple: rank restaurants in order is impossible, at least for app on ipad.\\nPure junk\"}",
+        "reasoning": "The customer has explicitly stated issues with the filter function of the Tripadvisor app, particularly the availability filter being stuck and the inability to swap it for traveler ranking. They also mentioned that the app does not rank restaurants in order, even after multiple attempts and device reboots. These form the valid issues from the customer's feedback.",
+        "output": "{\"issues\":[{\"title\":\"Filter stuck on availability\",\"description\":\"Filter is stuck on availability and cannot be changed to traveler ranking despite multiple attempts and device reboots.\",\"steps\":[\"Update the app\",\"Reboot the device 6 times\",\"Attempt to change the filter to traveler ranking\"]},{\"title\":\"Cannot rank restaurants in order\",\"description\":\"Unable to rank restaurants in order in the iPad app, even after multiple attempts.\",\"steps\":[]}]}"
+      },
+      {
+        "input": "{\"context\":\"MATEIN Travel Laptop Backpack is a versatile choice for business or college use. With ample storage and multiple pockets, it accommodates laptops up to 15.6 inches. Features include USB charging port, comfortable design, and anti-theft measures. Crafted from durable, water-resistant polyester with reinforced zippers, suitable for daily and travel use.\",\"feedback\":\"High quality and comfortable\\nI love this backpack. Every day at my job I\u2019m moving around a lot so I keep a backpack on me with things I need. In which my bag can get pretty heavy, so my last backpack, that lasted me years, began tearing apart. It definitely didn\u2019t have as much storage as this one too. This backpack has so many pockets and space and storage areas. Even a car keychain clip inside! I thought that was pretty cool. The padding on the back of it really makes it comfortable to wear, even for extended periods of time. Like I had stated above, I do need to be wearing a backpack for a lot of my day and my old one would make my shoulders and back hurt. But even with many heavy things inside of it, this backpack is still comfortable! All and all, I genuinely love this backpack and I recommend it to anyone who\u2019s is considering buying it!\"}",
+        "reasoning": "The customer's feedback doesn't indicate any issues with the product. Instead, they expressed their satisfaction with the product's quality, comfort, storage capacity, and features.",
+        "output": "{\"issues\":[]}"
+      },
+      {
+        "input": "{\"context\":\"Shein is an online fashion retailer known for its extensive range of trendy clothing, accessories, and footwear at affordable prices. Catering to a global audience, it offers diverse styles for men, women, and children, with frequent new arrivals and promotions, making it popular among fashion-forward shoppers.\",\"feedback\":\"I used to enjoy shopping on SHEIN and was always very satisfied. I have bought nice cotton sweaters from there...\\nNow I am very disappointed and shocked by their offers. Since influencers started promoting SHEIN, the quality of the items has greatly diminished and the prices have increased.\\n- You really have to pay close attention! - I wanted to order a cotton pullover and checked the product description. It said:\\nMaterial: Cotton\\nComposition: 100% Polyester!!\\nWhat's that? Cotton and polyester have nothing to do with each other. A cheek!\\nUnfortunately, SHEIN has lost me as a customer.\"}",
+        "reasoning": "The customer has explicitly stated an issue with the product's description not matching the actual product material. They mentioned a specific instance where the product was described as cotton, but the composition was 100% polyester.",
+        "output": "{\"issues\":[{\"title\":\"Product description does not match actual product material\",\"description\":\"Discrepancy between the product description and the actual product. Expected a cotton pullover but received a product with a composition of 100% polyester.\",\"steps\":[]}]}"
+      },
+      {
+        "input": "{\"context\":\"Duolingo is a language-learning app available on mobile devices and desktops. It offers interactive lessons in over 30 languages, including vocabulary, grammar, and speaking exercises. Users progress through levels and earn rewards for completing lessons.\",\"feedback\":\"\ud83d\udc4d\"}",
+        "reasoning": "The feedback provided is a positive emoji, which does not contain any issues, steps to reproduce, or explicit statements of problems with the Duolingo app. Therefore, there are no valid issues to report.",
+        "output": "{\"issues\":[]}"
+      }
+    ]
+  }
+}

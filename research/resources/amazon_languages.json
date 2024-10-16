@@ -1,0 +1,106 @@
+[
+  {
+    "language_name": "Arabic (Saudi Arabia)",
+    "language_code": "ar_SA"
+  },
+  {
+    "language_name": "Arabic (U.A.E.)",
+    "language_code": "ar_AE"
+  },
+  {
+    "language_name": "Chinese (Simplified)",
+    "language_code": "zh_CN"
+  },
+  {
+    "language_name": "Chinese (Traditional)",
+    "language_code": "zh_TW"
+  },
+  {
+    "language_name": "Czech (Czech Republic)",
+    "language_code": "cs_CZ"
+  },
+  {
+    "language_name": "Dutch (Netherlands)",
+    "language_code": "nl_NL"
+  },
+  {
+    "language_name": "English (Australia)",
+    "language_code": "en_AU"
+  },
+  {
+    "language_name": "English (Canada)",
+    "language_code": "en_CA"
+  },
+  {
+    "language_name": "English (India)",
+    "language_code": "en_IN"
+  },
+  {
+    "language_name": "English (United Kingdom)",
+    "language_code": "en_GB"
+  },
+  {
+    "language_name": "English (United States)",
+    "language_code": "en_US"
+  },
+  {
+    "language_name": "French (Canada)",
+    "language_code": "fr_CA"
+  },
+  {
+    "language_name": "French (France)",
+    "language_code": "fr_FR"
+  },
+  {
+    "language_name": "German (Germany)",
+    "language_code": "de_DE"
+  },
+  {
+    "language_name": "Hebrew (Israel)",
+    "language_code": "he_IL"
+  },
+  {
+    "language_name": "Hindi (India)",
+    "language_code": "hi_IN"
+  },
+  {
+    "language_name": "Italian (Italy)",
+    "language_code": "it_IT"
+  },
+  {
+    "language_name": "Japanese (Japan)",
+    "language_code": "ja_JP"
+  },
+  {
+    "language_name": "Korean (Korea)",
+    "language_code": "ko_KR"
+  },
+  {
+    "language_name": "Polish (Poland)",
+    "language_code": "pl_PL"
+  },
+  {
+    "language_name": "Portuguese (Brazil)",
+    "language_code": "pt_BR"
+  },
+  {
+    "language_name": "Spanish (Mexico)",
+    "language_code": "es_MX"
+  },
+  {
+    "language_name": "Spanish (Spain)",
+    "language_code": "es_ES"
+  },
+  {
+    "language_name": "Spanish (United States)",
+    "language_code": "es_US"
+  },
+  {
+    "language_name": "Swedish (Sweden)",
+    "language_code": "sv_SE"
+  },
+  {
+    "language_name": "Turkish (Turkey)",
+    "language_code": "tr_TR"
+  }
+]

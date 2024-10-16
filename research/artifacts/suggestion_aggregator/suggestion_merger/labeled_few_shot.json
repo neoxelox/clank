@@ -1,0 +1,26 @@
+{
+  "merge_suggestions.predictor": {
+    "demos": [
+      {
+        "input": "{\"suggestion_a\":{\"title\":\"Reduce ads\",\"description\":\"Decrease the number of ads displayed in the app.\",\"reason\":\"This will improve user experience.\"},\"suggestion_b\":{\"title\":\"Reduce Ad Load\",\"description\":\"Reduce the number of ads displayed on the platform.\",\"reason\":\"This will improve user experience.\"}}",
+        "reasoning": "Both suggestions focus on reducing the number of ads to enhance user experience. They share a common goal and context, making it straightforward to merge them without losing any nuance.",
+        "output": "{\"suggestion\":{\"title\":\"Decrease Number of Ads\",\"description\":\"Reduce the number of ads displayed in the app and on the platform.\",\"reason\":\"This will improve user experience.\"}}"
+      },
+      {
+        "input": "{\"suggestion_a\":{\"title\":\"Add Canada to available countries\",\"description\":\"Include Canada as a country option in the app.\",\"reason\":\"This will increase app accessibility.\"},\"suggestion_b\":{\"title\":\"Canada availability\",\"description\":\"Make the app available in Canada.\",\"reason\":\"This will increase user base.\"}}",
+        "reasoning": "Both suggestions emphasize the need to make the app accessible in Canada to enhance accessibility and expand the user base. The core idea is to include Canada as an available country.",
+        "output": "{\"suggestion\":{\"title\":\"Include Canada as an Option\",\"description\":\"Make the app available in Canada by including it as a country option, thereby increasing its accessibility.\",\"reason\":\"This will increase app accessibility and expand the user base.\"}}"
+      },
+      {
+        "input": "{\"suggestion_a\":{\"title\":\"Allow pasting pictures as pictures\",\"description\":\"Allow users to paste pictures as pictures, instead of converting them to stickers.\",\"reason\":\"\"},\"suggestion_b\":{\"title\":\"Restore copy-paste functionality\",\"description\":\"Allow users to paste photos as photos, not just stickers.\",\"reason\":\"This will improve user experience.\"}}",
+        "reasoning": "Both suggestions emphasize the need to paste pictures as pictures rather than converting them to stickers. The primary goal is to enhance user experience by restoring the ability to paste photos directly.",
+        "output": "{\"suggestion\":{\"title\":\"Enable Direct Photo Pasting\",\"description\":\"Allow pasting pictures directly as pictures instead of converting them to stickers, restoring the copy-paste functionality.\",\"reason\":\"This will improve user experience.\"}}"
+      },
+      {
+        "input": "{\"suggestion_a\":{\"title\":\"Color Scheme Change\",\"description\":\"Change the color scheme to blue, similar to the previous version.\",\"reason\":\"This will improve user experience.\"},\"suggestion_b\":{\"title\":\"Remove forced green theme\",\"description\":\"Allow users to opt-out or customize the theme.\",\"reason\":\"This will increase app personalization.\"}}",
+        "reasoning": "Combine the core ideas of changing the color scheme to blue and providing customization options, maintaining the emphasis on user experience and personalization.",
+        "output": "{\"suggestion\":{\"title\":\"Theme Customization Options\",\"description\":\"Allow users to customize the app's color scheme, including an option to revert to the previous blue theme, instead of being forced to use the current green theme.\",\"reason\":\"This will improve user experience and increase app personalization.\"}}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "translate_feedback.predictor": {
+    "demos": [
+      {
+        "input": "{\"feedback\":\"DEPENDIENTAS PRIMOR GARBERA SAN SEBASTIAN \\nFatal experiencia, te siguen por toda la tienda y rondan constantemente la zona en la que est\u00e1s incomodandote , de manera muy des carada, todo para saber si robas, te tratan de ladr\u00f3n desde que entras, por favor que cuiden eso!\",\"from_language\":\"SPANISH\",\"to_language\":\"ENGLISH\"}",
+        "reasoning": "Translate the feedback from Spanish to English, maintaining the style, format, emphasis, punctuation, and other details.",
+        "output": "{\"translation\":\"PRIMOR GARBERA SAN SEBASTIAN CLERKS \\nTerrible experience, they follow you around the store and constantly hover in the area where you are, making you uncomfortable in a very blatant way, all to see if you steal. They treat you like a thief from the moment you enter. Please take care of this!\"}"
+      },
+      {
+        "input": "{\"feedback\":\"Pesima atenci\u00f3n al cliente en pedidos online\\nEl d\u00eda 28 de enero hice un pedido online y casi dos semanas esperando me decido a mirar el estado de mi pedido y pone que ha sido entregado el d\u00eda 1 de febrero . Me pongo en contacto con el servicio de atenci\u00f3n al Cliente para decir que mi pedido no ha llegado y me dicen que van a hablar con la empresa de transporte. Al d\u00eda siguiente me llama un transportista y me dice que yo le dije que lo dejara en el felpudo cuando me llamo por tel\u00e9fono porque no est\u00e1bamos en casa. He mandado pantallazo de las llamadas telef\u00f3nicas y de las llamadas al telefonillo de la casa y ese d\u00eda no me llamo nadie a ninguno de los sitios. TENGO PRUEBAS DE QUE NO LO HAN ENTREGADO. Y a\u00fan me contesta primor que el transportista se pasar\u00e1 a hablar conmigo para aclararlo\u2026 no confi\u00e9is en esta tienda para hacer pedidos porque no se hacen responsables si ocurre algo con el transporte. Es una verg\u00fcenza\",\"from_language\":\"SPANISH\",\"to_language\":\"ENGLISH\"}",
+        "reasoning": "Translate the feedback from Spanish to English while preserving the style, format, emphasis, emojis, punctuation, names, measures, units, and dates.",
+        "output": "{\"translation\":\"Terrible customer service for online orders\\nOn January 28th, I placed an online order and after almost two weeks of waiting, I decided to check the status of my order and it says it was delivered on February 1st. I contacted Customer Service to say that my order has not arrived and they told me they would talk to the delivery company. The next day, a delivery person called me and said that I told him to leave it on the doormat when he called me because we were not at home. I sent screenshots of the phone calls and the intercom calls from the house and no one called me that day at any of those places. I HAVE PROOF THAT IT WAS NOT DELIVERED. And yet Primor responds that the delivery person will come by to talk to me to clarify… Do not trust this store for orders because they do not take responsibility if something happens with the delivery. It\u2019s a disgrace\"}"
+      },
+      {
+        "input": "{\"feedback\":\"I prodotto acquistati sono belli mi piacciono e anche i tessuti sono abbastanza buoni\",\"from_language\":\"ITALIAN\",\"to_language\":\"ENGLISH\"}",
+        "reasoning": "Translate the Italian feedback into English while maintaining the original style, format, and emphasis.",
+        "output": "{\"translation\":\"The purchased products are beautiful, I like them, and the fabrics are quite good\"}"
+      },
+      {
+        "input": "{\"feedback\":\"Massive Werbeunterbrechungen\\nDie Werbeunterbrechungen lassen \u00fcberhaupt keinerlei Sehvergn\u00fcgen mehr zu, da hilft nur noch die k\u00fcndigung\",\"from_language\":\"GERMAN\",\"to_language\":\"ENGLISH\"}",
+        "reasoning": "Translate the feedback from German to English step by step while preserving the original style and formatting.",
+        "output": "{\"translation\":\"Massive advertising interruptions\\nThe advertising interruptions do not allow any viewing pleasure anymore, the only solution is to cancel\"}"
+      }
+    ]
+  }
+}

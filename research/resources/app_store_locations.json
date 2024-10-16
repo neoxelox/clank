@@ -1,0 +1,737 @@
+[
+  {
+    "location_code": 2012,
+    "location_name": "Algeria",
+    "location_name_parent": null,
+    "country_iso_code": "DZ",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2024,
+    "location_name": "Angola",
+    "location_name_parent": null,
+    "country_iso_code": "AO",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2031,
+    "location_name": "Azerbaijan",
+    "location_name_parent": null,
+    "country_iso_code": "AZ",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2032,
+    "location_name": "Argentina",
+    "location_name_parent": null,
+    "country_iso_code": "AR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2036,
+    "location_name": "Australia",
+    "location_name_parent": null,
+    "country_iso_code": "AU",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2040,
+    "location_name": "Austria",
+    "location_name_parent": null,
+    "country_iso_code": "AT",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2048,
+    "location_name": "Bahrain",
+    "location_name_parent": null,
+    "country_iso_code": "BH",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2051,
+    "location_name": "Armenia",
+    "location_name_parent": null,
+    "country_iso_code": "AM",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2052,
+    "location_name": "Barbados",
+    "location_name_parent": null,
+    "country_iso_code": "BB",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2056,
+    "location_name": "Belgium",
+    "location_name_parent": null,
+    "country_iso_code": "BE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2068,
+    "location_name": "Bolivia",
+    "location_name_parent": null,
+    "country_iso_code": "BO",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2072,
+    "location_name": "Botswana",
+    "location_name_parent": null,
+    "country_iso_code": "BW",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2076,
+    "location_name": "Brazil",
+    "location_name_parent": null,
+    "country_iso_code": "BR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2084,
+    "location_name": "Belize",
+    "location_name_parent": null,
+    "country_iso_code": "BZ",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2096,
+    "location_name": "Brunei",
+    "location_name_parent": null,
+    "country_iso_code": "BN",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2100,
+    "location_name": "Bulgaria",
+    "location_name_parent": null,
+    "country_iso_code": "BG",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2124,
+    "location_name": "Canada",
+    "location_name_parent": null,
+    "country_iso_code": "CA",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2144,
+    "location_name": "Sri Lanka",
+    "location_name_parent": null,
+    "country_iso_code": "LK",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2152,
+    "location_name": "Chile",
+    "location_name_parent": null,
+    "country_iso_code": "CL",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2156,
+    "location_name": "China",
+    "location_name_parent": null,
+    "country_iso_code": "CN",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2170,
+    "location_name": "Colombia",
+    "location_name_parent": null,
+    "country_iso_code": "CO",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2188,
+    "location_name": "Costa Rica",
+    "location_name_parent": null,
+    "country_iso_code": "CR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2191,
+    "location_name": "Croatia",
+    "location_name_parent": null,
+    "country_iso_code": "HR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2196,
+    "location_name": "Cyprus",
+    "location_name_parent": null,
+    "country_iso_code": "CY",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2203,
+    "location_name": "Czechia",
+    "location_name_parent": null,
+    "country_iso_code": "CZ",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2208,
+    "location_name": "Denmark",
+    "location_name_parent": null,
+    "country_iso_code": "DK",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2212,
+    "location_name": "Dominica",
+    "location_name_parent": null,
+    "country_iso_code": "DM",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2218,
+    "location_name": "Ecuador",
+    "location_name_parent": null,
+    "country_iso_code": "EC",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2222,
+    "location_name": "El Salvador",
+    "location_name_parent": null,
+    "country_iso_code": "SV",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2233,
+    "location_name": "Estonia",
+    "location_name_parent": null,
+    "country_iso_code": "EE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2246,
+    "location_name": "Finland",
+    "location_name_parent": null,
+    "country_iso_code": "FI",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2250,
+    "location_name": "France",
+    "location_name_parent": null,
+    "country_iso_code": "FR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2276,
+    "location_name": "Germany",
+    "location_name_parent": null,
+    "country_iso_code": "DE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2288,
+    "location_name": "Ghana",
+    "location_name_parent": null,
+    "country_iso_code": "GH",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2300,
+    "location_name": "Greece",
+    "location_name_parent": null,
+    "country_iso_code": "GR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2308,
+    "location_name": "Grenada",
+    "location_name_parent": null,
+    "country_iso_code": "GD",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2320,
+    "location_name": "Guatemala",
+    "location_name_parent": null,
+    "country_iso_code": "GT",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2328,
+    "location_name": "Guyana",
+    "location_name_parent": null,
+    "country_iso_code": "GY",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2340,
+    "location_name": "Honduras",
+    "location_name_parent": null,
+    "country_iso_code": "HN",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2348,
+    "location_name": "Hungary",
+    "location_name_parent": null,
+    "country_iso_code": "HU",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2352,
+    "location_name": "Iceland",
+    "location_name_parent": null,
+    "country_iso_code": "IS",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2356,
+    "location_name": "India",
+    "location_name_parent": null,
+    "country_iso_code": "IN",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2360,
+    "location_name": "Indonesia",
+    "location_name_parent": null,
+    "country_iso_code": "ID",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2372,
+    "location_name": "Ireland",
+    "location_name_parent": null,
+    "country_iso_code": "IE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2376,
+    "location_name": "Israel",
+    "location_name_parent": null,
+    "country_iso_code": "IL",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2380,
+    "location_name": "Italy",
+    "location_name_parent": null,
+    "country_iso_code": "IT",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2388,
+    "location_name": "Jamaica",
+    "location_name_parent": null,
+    "country_iso_code": "JM",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2392,
+    "location_name": "Japan",
+    "location_name_parent": null,
+    "country_iso_code": "JP",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2400,
+    "location_name": "Jordan",
+    "location_name_parent": null,
+    "country_iso_code": "JO",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2404,
+    "location_name": "Kenya",
+    "location_name_parent": null,
+    "country_iso_code": "KE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2410,
+    "location_name": "South Korea",
+    "location_name_parent": null,
+    "country_iso_code": "KR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2414,
+    "location_name": "Kuwait",
+    "location_name_parent": null,
+    "country_iso_code": "KW",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2422,
+    "location_name": "Lebanon",
+    "location_name_parent": null,
+    "country_iso_code": "LB",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2428,
+    "location_name": "Latvia",
+    "location_name_parent": null,
+    "country_iso_code": "LV",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2440,
+    "location_name": "Lithuania",
+    "location_name_parent": null,
+    "country_iso_code": "LT",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2442,
+    "location_name": "Luxembourg",
+    "location_name_parent": null,
+    "country_iso_code": "LU",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2450,
+    "location_name": "Madagascar",
+    "location_name_parent": null,
+    "country_iso_code": "MG",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2458,
+    "location_name": "Malaysia",
+    "location_name_parent": null,
+    "country_iso_code": "MY",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2466,
+    "location_name": "Mali",
+    "location_name_parent": null,
+    "country_iso_code": "ML",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2470,
+    "location_name": "Malta",
+    "location_name_parent": null,
+    "country_iso_code": "MT",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2480,
+    "location_name": "Mauritius",
+    "location_name_parent": null,
+    "country_iso_code": "MU",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2484,
+    "location_name": "Mexico",
+    "location_name_parent": null,
+    "country_iso_code": "MX",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2512,
+    "location_name": "Oman",
+    "location_name_parent": null,
+    "country_iso_code": "OM",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2524,
+    "location_name": "Nepal",
+    "location_name_parent": null,
+    "country_iso_code": "NP",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2528,
+    "location_name": "Netherlands",
+    "location_name_parent": null,
+    "country_iso_code": "NL",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2554,
+    "location_name": "New Zealand",
+    "location_name_parent": null,
+    "country_iso_code": "NZ",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2558,
+    "location_name": "Nicaragua",
+    "location_name_parent": null,
+    "country_iso_code": "NI",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2562,
+    "location_name": "Niger",
+    "location_name_parent": null,
+    "country_iso_code": "NE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2566,
+    "location_name": "Nigeria",
+    "location_name_parent": null,
+    "country_iso_code": "NG",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2578,
+    "location_name": "Norway",
+    "location_name_parent": null,
+    "country_iso_code": "NO",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2586,
+    "location_name": "Pakistan",
+    "location_name_parent": null,
+    "country_iso_code": "PK",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2591,
+    "location_name": "Panama",
+    "location_name_parent": null,
+    "country_iso_code": "PA",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2600,
+    "location_name": "Paraguay",
+    "location_name_parent": null,
+    "country_iso_code": "PY",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2604,
+    "location_name": "Peru",
+    "location_name_parent": null,
+    "country_iso_code": "PE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2608,
+    "location_name": "Philippines",
+    "location_name_parent": null,
+    "country_iso_code": "PH",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2616,
+    "location_name": "Poland",
+    "location_name_parent": null,
+    "country_iso_code": "PL",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2620,
+    "location_name": "Portugal",
+    "location_name_parent": null,
+    "country_iso_code": "PT",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2634,
+    "location_name": "Qatar",
+    "location_name_parent": null,
+    "country_iso_code": "QA",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2642,
+    "location_name": "Romania",
+    "location_name_parent": null,
+    "country_iso_code": "RO",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2682,
+    "location_name": "Saudi Arabia",
+    "location_name_parent": null,
+    "country_iso_code": "SA",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2686,
+    "location_name": "Senegal",
+    "location_name_parent": null,
+    "country_iso_code": "SN",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2702,
+    "location_name": "Singapore",
+    "location_name_parent": null,
+    "country_iso_code": "SG",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2703,
+    "location_name": "Slovakia",
+    "location_name_parent": null,
+    "country_iso_code": "SK",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2704,
+    "location_name": "Vietnam",
+    "location_name_parent": null,
+    "country_iso_code": "VN",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2705,
+    "location_name": "Slovenia",
+    "location_name_parent": null,
+    "country_iso_code": "SI",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2710,
+    "location_name": "South Africa",
+    "location_name_parent": null,
+    "country_iso_code": "ZA",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2724,
+    "location_name": "Spain",
+    "location_name_parent": null,
+    "country_iso_code": "ES",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2740,
+    "location_name": "Suriname",
+    "location_name_parent": null,
+    "country_iso_code": "SR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2752,
+    "location_name": "Sweden",
+    "location_name_parent": null,
+    "country_iso_code": "SE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2756,
+    "location_name": "Switzerland",
+    "location_name_parent": null,
+    "country_iso_code": "CH",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2764,
+    "location_name": "Thailand",
+    "location_name_parent": null,
+    "country_iso_code": "TH",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2784,
+    "location_name": "United Arab Emirates",
+    "location_name_parent": null,
+    "country_iso_code": "AE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2788,
+    "location_name": "Tunisia",
+    "location_name_parent": null,
+    "country_iso_code": "TN",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2792,
+    "location_name": "Turkiye",
+    "location_name_parent": null,
+    "country_iso_code": "TR",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2800,
+    "location_name": "Uganda",
+    "location_name_parent": null,
+    "country_iso_code": "UG",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2804,
+    "location_name": "Ukraine",
+    "location_name_parent": null,
+    "country_iso_code": "UA",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2807,
+    "location_name": "North Macedonia",
+    "location_name_parent": null,
+    "country_iso_code": "MK",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2818,
+    "location_name": "Egypt",
+    "location_name_parent": null,
+    "country_iso_code": "EG",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2826,
+    "location_name": "United Kingdom",
+    "location_name_parent": null,
+    "country_iso_code": "GB",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2834,
+    "location_name": "Tanzania",
+    "location_name_parent": null,
+    "country_iso_code": "TZ",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2840,
+    "location_name": "United States",
+    "location_name_parent": null,
+    "country_iso_code": "US",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2858,
+    "location_name": "Uruguay",
+    "location_name_parent": null,
+    "country_iso_code": "UY",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2860,
+    "location_name": "Uzbekistan",
+    "location_name_parent": null,
+    "country_iso_code": "UZ",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2862,
+    "location_name": "Venezuela",
+    "location_name_parent": null,
+    "country_iso_code": "VE",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2887,
+    "location_name": "Yemen",
+    "location_name_parent": null,
+    "country_iso_code": "YE",
+    "location_type": "Country"
+  }
+]

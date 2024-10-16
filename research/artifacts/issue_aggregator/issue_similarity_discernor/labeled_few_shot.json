@@ -1,0 +1,26 @@
+{
+  "discern_similarity.predictor": {
+    "demos": [
+      {
+        "input": "{\"issue_a\":\"Constant ads overwhelm the platform, making it difficult to enjoy the content and browse through images.\",\"issue_b\":\"Advertisements appear too frequently, disrupting the user experience. Ads appear every 3 pictures, which is overwhelming.\"}",
+        "reasoning": "Both issues mention the overwhelming presence of ads on the platform, making it difficult to enjoy the content. They describe the frequency and disruptive nature of the ads, which impacts the user's experience negatively.",
+        "output": "{\"similar\":true}"
+      },
+      {
+        "input": "{\"issue_a\":\"The 'similar products' feature appears automatically when viewing a pin, which is annoying and should only appear when pressing the button at the bottom right of the screen.\",\"issue_b\":\"The app is cluttered with ads, making it difficult to use and navigate. The ads take up a significant portion of the pins, making it feel like a minefield when scrolling through the app.\"}",
+        "reasoning": "The primary concern in issue A is about the automatic appearance of the 'similar products' feature, which affects user experience by being intrusive. In contrast, issue B focuses on the presence of numerous ads that clutter the app and disrupt navigation. While both issues relate to negative user experience, the specific causes and nature of the disruptions are different.",
+        "output": "{\"similar\":false}"
+      },
+      {
+        "input": "{\"issue_a\":\"Unable to access Pinterest due to login issues, resulting in being stuck and unable to use the platform.\",\"issue_b\":\"Unable to connect to Pinterest account using Google account on iPad\"}",
+        "reasoning": "Both issues involve problems accessing Pinterest and are related to login difficulties. The first issue mentions a general login problem leading to being unable to use the platform, while the second specifies a problem logging in with a Google account on an iPad. The core issue in both cases is login access, which makes them at least 80% similar.",
+        "output": "{\"similar\":true}"
+      },
+      {
+        "input": "{\"issue_a\":\"The app is difficult to navigate, making it hard to find what you're looking for.\",\"issue_b\":\"Constant ads overwhelm the platform, making it difficult to enjoy the content and browse through images.\"}",
+        "reasoning": "Issue A relates to the navigation difficulty of the app, while Issue B concerns the presence of constant ads hindering the experience. The problems are centered on different aspects of the user experience: one is about usability (navigation) and the other about content interruption (ads).",
+        "output": "{\"similar\":false}"
+      }
+    ]
+  }
+}

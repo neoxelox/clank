@@ -1,0 +1,22 @@
+[
+  {
+    "language_name": "English (Australia)",
+    "language_code": "en_AU"
+  },
+  {
+    "language_name": "English (Canada)",
+    "language_code": "en_CA"
+  },
+  {
+    "language_name": "English (India)",
+    "language_code": "en_IN"
+  },
+  {
+    "language_name": "English (United Kingdom)",
+    "language_code": "en_GB"
+  },
+  {
+    "language_name": "English (United States)",
+    "language_code": "en_US"
+  }
+]

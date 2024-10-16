@@ -1,0 +1,25 @@
+# File working directory
+files/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+tmp/
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Output of the go pprof tool
+*.pprof
+
+# Air reloader temporal directory
+.air/
+
+# Dependency directories
+vendor/

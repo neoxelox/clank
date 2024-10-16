@@ -1,0 +1,36 @@
+{
+  "merge_issues.predictor": {
+    "demos": [
+      {
+        "input": "{\"issue_a\":{\"title\":\"Increased number of ads\",\"description\":\"The amount of ads has more than doubled since the last time I was on the app.\",\"steps\":[]},\"issue_b\":{\"title\":\"Feed flooded with ads\",\"description\":\"Advertisements have taken over the feed, causing frustration and considering deleting the app.\",\"steps\":[]}}",
+        "reasoning": "Both issues revolve around the excessive presence of ads in the app. The first issue highlights a significant increase in the number of ads, while the second issue focuses on the ads overtaking the feed to the point of frustration. Merging them will capture the core problem of the overwhelming ad presence in the app.",
+        "output": "{\"issue\":{\"title\":\"Overwhelming Ad Presence\",\"description\":\"The number of ads in the app has more than doubled recently and they have taken over the feed, causing frustration and leading to considerations of deleting the app.\",\"steps\":[]}}"
+      },
+      {
+        "input": "{\"issue_a\":{\"title\":\"Collage update not showing up on iOS devices\",\"description\":\"Collage update is not available on iOS devices, causing issues with creating collages.\",\"steps\":[\"Update the app to the latest version\",\"Clear cache and log in/log out\"]},\"issue_b\":{\"title\":\"Collage feature not available on iPhone and iPad\",\"description\":\"Collage creation button is missing after updating the app.\",\"steps\":[\"Try to create a collage by clicking the plus button\"]}}",
+        "reasoning": "Both issues relate to the functionality of the collage feature on iOS devices. Issue A describes the unavailability of the collage update, while Issue B mentions the absence of the collage creation button after updating the app. By merging these, we can create a single issue focusing on the collage feature not being available after the update on iOS devices.",
+        "output": "{\"issue\":{\"title\":\"Collage feature not available on iOS devices\",\"description\":\"The collage update is not available, and the collage creation button is missing after the app update on iPhone and iPad, causing issues with creating collages.\",\"steps\":[\"Update the app to the latest version\",\"Clear cache and log in/log out\",\"Try to create a collage by clicking the plus button\"]}}"
+      },
+      {
+        "input": "{\"issue_a\":{\"title\":\"Cannot log in to Pinterest\",\"description\":\"Unable to access Pinterest due to login issues, resulting in being stuck and unable to use the platform.\",\"steps\":[]},\"issue_b\":{\"title\":\"Failed to connect using Google account\",\"description\":\"Unable to connect to Pinterest account using Google account on iPad\",\"steps\":[]}}",
+        "reasoning": "Both issues involve difficulties accessing Pinterest, with one specifically mentioning problems logging in and the other specifying a failure to connect via a Google account on an iPad. The merged issue should reflect the core problem of being unable to log in or connect to Pinterest, and should highlight the specific context of the Google account and iPad.",
+        "output": "{\"issue\":{\"title\":\"Unable to Log In to Pinterest on iPad\",\"description\":\"Experiencing difficulties accessing Pinterest due to login issues, particularly when attempting to connect using a Google account on an iPad. This results in being unable to use the platform.\",\"steps\":[]}}"
+      },
+      {
+        "input": "{\"issue_a\":{\"title\":\"App freezes and turns black\",\"description\":\"The Pinterest app freezes and turns black, causing disruptions to the user experience.\",\"steps\":[]},\"issue_b\":{\"title\":\"Freezes and crashes during navigation\",\"description\":\"The app freezes and crashes often during navigation between screens.\",\"steps\":[\"Navigate from the global feed to the profile tab\"]}}",
+        "reasoning": "Both issues revolve around the app freezing and causing disruptions. Issue A mentions the app turning black, while Issue B describes the app crashing during navigation. Combining these elements will create a comprehensive issue that covers freezing, crashing, and the app turning black during navigation.",
+        "output": "{\"issue\":{\"title\":\"App freezes, crashes, and turns black\",\"description\":\"The app frequently freezes, turns black, and crashes, particularly during navigation between screens, disrupting the user experience.\",\"steps\":[\"Navigate from the global feed to the profile tab\"]}}"
+      },
+      {
+        "input": "{\"issue_a\":{\"title\":\"Unauthorized transaction on card\",\"description\":\"The customer's card was stolen and money was taken without their consent during a transaction with the service.\",\"steps\":[]},\"issue_b\":{\"title\":\"Card details stored and charged without permission\",\"description\":\"Card details stored by the app and debit of card without customer knowledge or consent.\",\"steps\":[]}}",
+        "reasoning": "Both issues involve unauthorized transactions and improper handling of card details. Issue A mentions theft and unauthorized transactions, while Issue B highlights the storage of card details without consent. By merging these, we can create a single issue that focuses on the unauthorized use of card details and transactions without customer consent.",
+        "output": "{\"issue\":{\"title\":\"Unauthorized transactions and storage of card details\",\"description\":\"Card details are being stored and used for unauthorized transactions without the customer's knowledge or consent, resulting in financial loss and security breaches.\",\"steps\":[]}}"
+      },
+      {
+        "input": "{\"issue_a\":{\"title\":\"Unauthorized use of bank card\",\"description\":\"Customer's bank card was used to make a transaction without their consent, resulting in a withdrawal of 64 Euros.\",\"steps\":[]},\"issue_b\":{\"title\":\"Card details stored and charged without permission\",\"description\":\"Card details stored by the app and debit of card without customer knowledge or consent.\",\"steps\":[]}}",
+        "reasoning": "Both issues involve unauthorized transactions and storage of card details without consent. Issue A mentions a specific transaction, while Issue B highlights the general issue of card details being stored and used without permission. By merging these, we can create a single issue that focuses on the unauthorized use and storage of card details.",
+        "output": "{\"issue\":{\"title\":\"Unauthorized use and storage of card details\",\"description\":\"Card details are being stored and used for unauthorized transactions without the customer's knowledge or consent, resulting in financial loss.\",\"steps\":[]}}"
+      }
+    ]
+  }
+}

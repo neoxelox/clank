@@ -1,0 +1,30 @@
+[
+  {
+    "location_code": 2036,
+    "location_name": "Australia",
+    "location_name_parent": null,
+    "country_iso_code": "AU",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2124,
+    "location_name": "Canada",
+    "location_name_parent": null,
+    "country_iso_code": "CA",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2826,
+    "location_name": "United Kingdom",
+    "location_name_parent": null,
+    "country_iso_code": "GB",
+    "location_type": "Country"
+  },
+  {
+    "location_code": 2840,
+    "location_name": "United States",
+    "location_name_parent": null,
+    "country_iso_code": "US",
+    "location_type": "Country"
+  }
+]

@@ -1,0 +1,14 @@
+# IDEs
+.vscode/
+.idea/
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+
+# Superinvoke
+.superinvoke_cache/
+.mypy_cache/
+
+# MacOS
+.DS_Store

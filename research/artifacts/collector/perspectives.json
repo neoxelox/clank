@@ -1,0 +1,80 @@
+{
+  "ENGLISH": {
+    "TRUSTPILOT": [
+      {
+        "location": "Global",
+        "language": "English"
+      }
+    ],
+    "APP_STORE": [
+      {
+        "location": "Australia",
+        "language": "English (Australia)"
+      },
+      {
+        "location": "Canada",
+        "language": "English"
+      },
+      {
+        "location": "Ireland",
+        "language": "English (United Kingdom)"
+      },
+      {
+        "location": "New Zealand",
+        "language": "English (Australia)"
+      },
+      {
+        "location": "United Kingdom",
+        "language": "English (United Kingdom)"
+      },
+      {
+        "location": "United States",
+        "language": "English"
+      }
+    ],
+    "PLAY_STORE": [
+      {
+        "location": "Australia",
+        "language": "English"
+      },
+      {
+        "location": "Canada",
+        "language": "English"
+      },
+      {
+        "location": "Ireland",
+        "language": "English"
+      },
+      {
+        "location": "New Zealand",
+        "language": "English"
+      },
+      {
+        "location": "United Kingdom",
+        "language": "English"
+      },
+      {
+        "location": "United States",
+        "language": "English"
+      }
+    ],
+    "AMAZON": [
+      {
+        "location": "Australia",
+        "language": "English (Australia)"
+      },
+      {
+        "location": "Canada",
+        "language": "English (Canada)"
+      },
+      {
+        "location": "United Kingdom",
+        "language": "English (United Kingdom)"
+      },
+      {
+        "location": "United States",
+        "language": "English (United States)"
+      }
+    ]
+  }
+}

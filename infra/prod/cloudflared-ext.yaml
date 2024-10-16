@@ -1,0 +1,8 @@
+tunnel: 6a205a71-2c51-48ff-a3aa-685e4e11d313
+credentials-file: /etc/cloudflared/certs/prod-ext.json
+
+ingress:
+  - hostname: api.clank.so
+    path: ^/ext
+    service: http://api:1111
+  - service: http_status:404

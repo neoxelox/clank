@@ -1,0 +1,26 @@
+{
+  "generate_suggestions.predictor": {
+    "demos": [
+      {
+        "input": "{\"context\":\"Revolut is a financial technology company offering a mobile banking app and prepaid debit card. It enables users to manage their money, make international transfers, exchange currencies, and invest in stocks and cryptocurrencies. With features like budgeting tools and real-time spending notifications, it appeals to a diverse user base.\",\"feedback\":\"10/10\\nIn my opinion the best banking app. You can invest in stocks, crypto and use your debit card all in the same app. Honestly would recommend to absolutely anyone. The only thing I would suggest to the Revolut team is a credit card.\"}",
+        "reasoning": "The customer has given a positive review about the Revolut app, mentioning its features and overall experience. They also provided a single suggestion for a new feature - a credit card.",
+        "output": "{\"suggestions\":[{\"title\":\"Credit Card\",\"description\":\"Add a credit card to the app.\",\"reason\":\"This will improve user experience.\"}]}"
+      },
+      {
+        "input": "{\"context\":\"Youtheory Ashwagandha Capsule is a stress-combatting supplement containing a blend of organic Ashwagandha KSM-66 and root powder. Clinically supported with high-concentration KSM-66, it utilizes clean extraction technology. Vegan, dairy-free, and third-party tested, it's formulated to help maintain normal cortisol levels and reduce stress.\",\"feedback\":\"Mood improvement\\nHas really helped with my mood from menopause. I am relaxed and calm. I really see an improvement\"}",
+        "reasoning": "The customer has given a positive feedback about the product's effect on their mood during menopause. However, they did not explicitly propose any improvement or feature request for the product. Therefore, based on the instructions provided, there are no valid suggestions from the customer.",
+        "output": "{\"suggestions\":[]}"
+      },
+      {
+        "input": "{\"context\":\"MANGA Plus is a manga reader mobile app offering a global selection of renowned titles like Naruto, One Piece, and Dragon Ball. Enjoy daily updates simultaneously with Japan, free access to weekly magazines, complete legendary titles, and engage with the community. Supporting creators directly, it discourages piracy for a sustainable manga industry.\",\"feedback\":\"This is good app but I want to read Pokemon manga you need to add Pokemon manga\"}",
+        "reasoning": "The customer has explicitly requested the addition of a specific manga title, Pokemon, to the app. This is a valid suggestion as it is a direct and clear proposal for a product improvement.",
+        "output": "{\"suggestions\":[{\"title\":\"Pokemon manga\",\"description\":\"Add Pokemon manga to the app's selection.\",\"reason\":\"This will increase app value.\"}]}"
+      },
+      {
+        "input": "{\"context\":\"Pinterest is a social media platform and mobile application designed for discovering and saving ideas on various topics such as recipes, fashion, home decor, and more. Users can browse through images (\\\"pins\\\") and organize them on personalized boards, as well as share and collaborate with others.\",\"feedback\":\"The collage update is not showing up for iOS devices\\nThe new update for Pinterest collages is not working on my iPhone and iPad as I recently got to play around with it for a little bit before it completely crashed and kicked me out of the app then when I tried to make another collage the button for creating collages was no where to be found when pressing on the plus button it only gives me the original two options to either create a pin or board but nothing insight for making a collage  my app is fully updated to the lastest update I tried clearing my cache, logging in and logging out and then finally trying to find it on my iPad yet nothing has worked !!!! Please fix this issue !!!! Thank youuu!!!!\"}",
+        "reasoning": "The customer has provided feedback regarding an issue with the Pinterest collage update on their iOS devices, specifically on iPhone and iPad. They mentioned that the update was not showing up and the 'create collage' button disappeared after the app crashed.\n\nThe customer's feedback contains a problem report, but they did not provide any explicit suggestions for improvement or feature requests. Therefore, there aren't any valid suggestions.",
+        "output": "{\"suggestions\":[]}"
+      }
+    ]
+  }
+}

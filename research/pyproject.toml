@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "research"
+version = "0.0.0"
+description = "clank.so research"
+authors = ["Alex <alex@clank.so>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+arize-phoenix = { extras = ["experimental"], version = "4.2.3" }
+clank-so-openinference-instrumentation-dspy = "0.1.10"
+dspy = { git = "https://github.com/stanfordnlp/dspy.git", branch = "backend-refactor" }
+emoji = "2.12.1"
+flashrank = "0.2.5"
+gitpython = "3.1.41"
+gradio = "4.21.0"
+groq = "0.8.0"
+ipynbname = "2023.2.0.0"
+ipywidgets = "8.1.1"
+isort = "5.13.2"
+jupyterlab-widgets = "3.0.9"
+levenshtein = "0.25.1"
+lingua-language-detector = "2.0.2"
+litellm = "1.38.8"
+nbqa = "1.8.4"
+notebook = "7.0.7"
+numpy = "1.26.4"
+openai = "1.30.3"
+opentelemetry-exporter-otlp = "1.24.0"
+opentelemetry-sdk = "1.24.0"
+pandas = "2.2.2"
+pgvector = "0.2.5"
+psycopg = { version = "3.1.18", extras = ["binary", "pool"] }
+py-xid = "1.0.0"
+pydantic = "2.7.1"
+python-dotenv = "1.0.1"
+requests = "2.32.2"
+tiktoken = "0.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

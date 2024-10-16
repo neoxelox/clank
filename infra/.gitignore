@@ -1,0 +1,4 @@
+.env
+!ci/.env
+dev/tmp/
+prod/certs/

@@ -1,0 +1,26 @@
+{
+  "infer_info.predictor": {
+    "demos": [
+      {
+        "input": "{\"context\":\"Jelife Bento Lunch Box for Kids is a large, leakproof lunchbox with 4 compartments and silverware, ideal for school. Its silicone ring and sauce compartments ensure freshness and prevent mess. Featuring kid-friendly latches and made of food-safe, high-quality materials, it's microwave and dishwasher safe for easy use and cleaning.\",\"feedback\":\"Broke with one use\",\"issue\":\"The lunchbox broke after a single use, indicating issues with the product's durability.\",\"severities\":[\"CRITICAL\",\"HIGH\",\"MEDIUM\",\"LOW\"],\"categories\":[\"LEAK PROOFING\",\"COMPARTMENT SIZE\",\"LATCH DURABILITY\",\"MICROWAVE SAFETY\",\"MATERIAL QUALITY\",\"DISHWASHER COMPATIBILITY\",\"EASE OF USE\",\"UNKNOWN\"]}",
+        "reasoning": "The issue of the lunchbox breaking after a single use points to a significant problem with the product's durability. This impacts the customer's trust and safety, making the severity critical. The most fitting category is material quality, as it directly concerns the structural integrity of the lunchbox.",
+        "output": "{\"severity\":\"CRITICAL\",\"category\":\"MATERIAL QUALITY\"}"
+      },
+      {
+        "input": "{\"context\":\"MANGA Plus is a manga reader mobile app offering a global selection of renowned titles like Naruto, One Piece, and Dragon Ball. Enjoy daily updates simultaneously with Japan, free access to weekly magazines, complete legendary titles, and engage with the community. Supporting creators directly, it discourages piracy for a sustainable manga industry.\",\"feedback\":\"Good app but keep charging money to read previous chapter please remove that\",\"issue\":\"The app requires payment to read previous chapters, which the customer finds problematic and requests to be removed.\",\"severities\":[\"CRITICAL\",\"HIGH\",\"MEDIUM\",\"LOW\"],\"categories\":[\"GLOBAL LIBRARY\",\"MANGA ACCESS\",\"COMMUNITY ENGAGEMENT\",\"CREATOR SUPPORT\",\"UNKNOWN\"]}",
+        "reasoning": "The issue involves the app charging for previous chapters, which impacts the customer's experience but does not affect the app's functionality or safety. Therefore, the severity is low. The most fitting category is manga access, as it directly relates to how users can access manga content.",
+        "output": "{\"severity\":\"LOW\",\"category\":\"MANGA ACCESS\"}"
+      },
+      {
+        "input": "{\"context\":\"Primor is a retail chain specializing in beauty and personal care products. Operating primarily in Spain, it offers a wide range of cosmetics, skincare, fragrances, and toiletries from various brands. With both physical stores and an online presence, Primor serves customers seeking affordable and quality beauty products.\",\"feedback\":\"ATTENTION IN PERSON\\nI have personally gone to the offices at both locations in Palma de Mallorca. Those who attend there have a lot to be desired, the quality of attention is fatal! Truly.\",\"issue\":\"The quality of in-person service at both Primor locations in Palma de Mallorca is described as inadequate and unsatisfactory.\",\"severities\":[\"CRITICAL\",\"HIGH\",\"MEDIUM\",\"LOW\"],\"categories\":[\"UNKNOWN\"]}",
+        "reasoning": "The issue pertains to inadequate in-person service quality, which can significantly affect customer satisfaction and retention. However, it is just an opinion, this makes the severity medium. There are no specific categories provided, so the category is UNKNOWN.",
+        "output": "{\"severity\":\"MEDIUM\",\"category\":\"UNKNOWN\"}"
+      },
+      {
+        "input": "{\"context\":\"Hostelworld is a mobile app catering to budget travelers, offering a wide selection of hostels, budget hotels, and budget accommodations worldwide. Users can browse reviews, view photos, and book accommodations directly through the app.\",\"feedback\":\"Terrible app\\nNon of my prior booking show up on the app even when I sign in. No real help. Complete waste of time.\",\"issue\":\"Prior bookings do not appear on the app even when signed in, making it difficult to manage reservations.\",\"severities\":[\"CRITICAL\",\"HIGH\",\"MEDIUM\",\"LOW\"],\"categories\":[\"PAYMENT OPTIONS\",\"CUSTOMER SERVICE\",\"APP PERFORMANCE\",\"ACCOUNT DELETION\",\"SEARCH FILTERS\",\"REVIEW ACCURACY\",\"UNKNOWN\"]}",
+        "reasoning": "The issue involves prior bookings not showing up on the app, which directly impacts the app's core functionality and user experience. This makes the severity high. The issue does not fit in any of the categories provided, so the category is UNKNOWN.",
+        "output": "{\"severity\":\"HIGH\",\"category\":\"UNKNOWN\"}"
+      }
+    ]
+  }
+}

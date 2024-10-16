@@ -1,0 +1,304 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
+    <style type="text/css">
+      .email {
+        text-decoration: none;
+        color: #9ca3af;
+        cursor: text;
+      }
+      .secondary-unlinkify a {
+        text-decoration: none !important;
+        color: #9ca3af !important;
+      }
+      p {
+        margin: 1em 0;
+      }
+      @media screen and (min-width: 415px) {
+        .container {
+          width: 375px !important;
+        }
+      }
+      @media only screen and (max-width: 450px) {
+        u ~ div {
+          min-width: 100vw;
+        }
+        u ~ div .notification-v4 {
+          min-width: 100vw;
+        }
+        div > u ~ div .notification-v4 {
+          min-width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body style="margin: 0; padding: 0; min-width: 100%; background-color: #fbfbfb">
+    <table class="notification-v4" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FBFBFB">
+      <tbody>
+        <tr>
+          <td></td>
+          <td width="415">
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody>
+                <tr>
+                  <td width="20"></td>
+                  <td width="100%">
+                    <table width="100%" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <td height="50"></td>
+                        </tr>
+                        <tr>
+                          <td align="center">
+                            <table
+                              align="center"
+                              class="container"
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              bgcolor="#FFFFFF"
+                              width="100%"
+                              style="
+                                -webkit-border-radius: 24px;
+                                -moz-border-radius: 24px;
+                                -ms-border-radius: 24px;
+                                -o-border-radius: 24px;
+                                border-radius: 24px;
+                                border-width: 1px;
+                                border-color: #e2e8f0;
+                                border-style: solid;
+                                overflow: hidden;
+                                table-layout: fixed;
+                              "
+                            >
+                              <tbody>
+                                <tr>
+                                  <td height="48"></td>
+                                </tr>
+                                <tr>
+                                  <td align="center">
+                                    <img
+                                      height="48"
+                                      style="
+                                        width: auto;
+                                        height: 48px;
+                                        -webkit-border-radius: 24px;
+                                        -moz-border-radius: 24px;
+                                        -ms-border-radius: 24px;
+                                        -o-border-radius: 24px;
+                                        border-radius: 24px;
+                                        display: block;
+                                      "
+                                      src="https://clank.so/images/profile.png"
+                                    />
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="24"></td>
+                                </tr>
+                                <tr>
+                                  <td align="center" style="padding: 0 48px">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                      <tbody>
+                                        <tr>
+                                          <td
+                                            align="center"
+                                            class="title"
+                                            style="
+                                              font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica,
+                                                Arial, sans-serif;
+                                              font-size: 16px;
+                                              font-weight: 400;
+                                              letter-spacing: 0.2px;
+                                              line-height: 22px;
+                                              color: #032830;
+                                            "
+                                          >
+                                            <div class="text" style="overflow: hidden">Sign in Code</div>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td height="16"></td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="22"></td>
+                                </tr>
+                                <tr>
+                                  <td
+                                    align="center"
+                                    class="code"
+                                    style="
+                                      font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial,
+                                        sans-serif;
+                                      font-size: 40px;
+                                      color: #032830;
+                                      font-weight: 400;
+                                      padding-left: 10px;
+                                      letter-spacing: 10px;
+                                      line-height: 48px;
+                                    "
+                                  >
+                                    <div class="text" style="overflow: hidden">{{.Code}}</div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="24"></td>
+                                </tr>
+                                <tr>
+                                  <td align="center" style="padding: 0 48px">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                      <tbody>
+                                        <tr>
+                                          <td
+                                            align="center"
+                                            class="secondary"
+                                            style="
+                                              color: #9ca3af;
+                                              font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica,
+                                                Arial, sans-serif;
+                                              font-size: 16px;
+                                              line-height: 24px;
+                                              font-weight: 400;
+                                            "
+                                          >
+                                            <div class="subtitle text" style="overflow: hidden">
+                                              This is the sign in code for Clank that you requested.
+                                              <p></p>
+                                              <b>Never</b> share this code with anyone.
+                                              <p></p>
+                                              You can also sign in through this link.
+                                              <p></p>
+                                              <a
+                                                href="{{.URL}}"
+                                                target="_blank"
+                                                style="
+                                                  display: block;
+                                                  width: auto;
+                                                  padding: 8px 16px;
+                                                  -webkit-border-radius: 12px;
+                                                  -moz-border-radius: 12px;
+                                                  -ms-border-radius: 12px;
+                                                  -o-border-radius: 12px;
+                                                  border-radius: 12px;
+                                                  color: #f8fafc;
+                                                  background-color: #2563eb;
+                                                  text-decoration: none !important;
+                                                  text-emphasis: none !important;
+                                                "
+                                              >
+                                                Sign in
+                                              </a>
+                                            </div>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td height="22"></td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="14"></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table
+                              align="center"
+                              class="container"
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              width="280"
+                              style="
+                                -webkit-border-radius: 24px;
+                                -moz-border-radius: 24px;
+                                -ms-border-radius: 24px;
+                                -o-border-radius: 24px;
+                                border-radius: 24px;
+                                overflow: hidden;
+                                table-layout: fixed;
+                              "
+                            >
+                              <tbody>
+                                <tr>
+                                  <td height="24"></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="center">
+                            <div
+                              class="footer"
+                              style="
+                                font-size: 14px;
+                                font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial,
+                                  sans-serif;
+                                line-height: 24px;
+                                font-weight: 300;
+                                text-align: center;
+                                color: #9ca3af;
+                              "
+                            >
+                              <p>
+                                This is a transactional email required to keep your account secure. You cannot
+                                unsubscribe from these emails.
+                              </p>
+                              <a
+                                href="https://clank.so"
+                                target="_blank"
+                                style="color: #9ca3af; text-decoration: none; padding: 0 10px"
+                              >
+                                Copyright &copy; 2024 Clank. All rights reserved.
+                              </a>
+                              <p>
+                                View our
+                                <a
+                                  href="https://clank.so/terms"
+                                  target="_blank"
+                                  style="color: #2563eb; text-decoration: none"
+                                >
+                                  Terms and Conditions
+                                </a>
+                                and
+                                <a
+                                  href="https://clank.so/privacy"
+                                  target="_blank"
+                                  style="color: #2563eb; text-decoration: none"
+                                >
+                                  Privacy Policy</a
+                                >.
+                              </p>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="70"></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                  <td width="20"></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

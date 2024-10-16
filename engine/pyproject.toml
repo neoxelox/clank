@@ -1,0 +1,67 @@
+[tool.poetry]
+name = "engine"
+version = "0.0.0"
+description = "clank.so engine"
+authors = ["Alex <alex@clank.so>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+dspy-ai = { git = "https://github.com/stanfordnlp/dspy.git", branch = "rc" }
+emoji = "2.12.1"
+fastapi = "0.110.0"
+flashrank = "0.2.5"
+groq = "0.8.0"
+gunicorn = "21.2.0"
+levenshtein = "0.25.1"
+lingua-language-detector = "2.0.2"
+litellm = "1.38.8"
+numpy = "1.26.4"
+openai = "1.30.3"
+pandas = "2.2.2"
+pydantic = "2.7.1"
+requests = "2.32.2"
+sentry-sdk = { extras = ["fastapi"], version = "1.45.0" }
+starlette = "0.36.3"
+tiktoken = "0.7.0"
+uvicorn = { extras = ["standard"], version = "0.29.0" }
+
+[tool.poetry.dev-dependencies]
+arize-phoenix = { extras = ["experimental"], version = "4.2.3" }
+clank-so-openinference-instrumentation-dspy = "0.1.10"
+mypy = "1.9.0"
+opentelemetry-exporter-otlp = "1.24.0"
+opentelemetry-sdk = "1.24.0"
+pytest = "8.1.1"
+pytest-xdist = "3.5.0"
+ruff = "0.3.4"
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+disallow_untyped_defs = true
+disallow_any_unimported = true
+no_implicit_optional = true
+check_untyped_defs = true
+warn_return_any = true
+warn_unused_ignores = true
+show_error_codes = true
+disable_error_code = ["import-untyped"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+ignore-init-module-imports = true
+ignore = ["F403"]
+
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["F401"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["src"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

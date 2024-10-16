@@ -1,0 +1,35 @@
+version: "3"
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - PGDATA=/var/lib/postgres/data
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - ./postgres-init.sh:/docker-entrypoint-initdb.d/postgres-init.sh
+      - postgres:/var/lib/postgres/data
+
+  pgadmin:
+    image: neoxelox/pgadmin4:latest
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=pgadmin@pgadmin.com
+      - PGADMIN_DEFAULT_PASSWORD=pgadmin
+      - PGADMIN_DISABLE_POSTFIX=True
+      - GUNICORN_ACCESS_LOGFILE=/dev/null
+      - PGADMIN_CONFIG_UPGRADE_CHECK_ENABLED=False
+    depends_on:
+      - postgres
+    links:
+      - postgres:postgres
+    ports:
+      - "127.0.0.1:5433:80"
+    volumes:
+      - ./pgadmin4.json:/pgadmin4/config.json
+      - pgadmin:/root/.pgadmin
+
+volumes:
+  postgres:
+  pgadmin:

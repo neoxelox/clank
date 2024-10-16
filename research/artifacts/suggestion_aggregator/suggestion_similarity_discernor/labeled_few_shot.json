@@ -1,0 +1,26 @@
+{
+  "discern_similarity.predictor": {
+    "demos": [
+      {
+        "input": "{\"suggestion_a\":\"Decrease the number of ads displayed in the app.\",\"suggestion_b\":\"Reduce the number of ads displayed on the platform.\"}",
+        "reasoning": "Both suggestions aim to reduce the number of ads shown within the app or platform. The difference in wording (\"app\" vs. \"platform\") does not change the core suggestion of reducing ads.",
+        "output": "{\"similar\":true}"
+      },
+      {
+        "input": "{\"suggestion_a\":\"Expand the double tap feature to other areas of the app.\",\"suggestion_b\":\"There is a delay in double-tapping after the latest update.\"}",
+        "reasoning": "Suggestion A is about expanding the double-tap feature to other areas of the app, while Suggestion B addresses a delay issue with the double-tapping function after an update. The focus of the two suggestions is different: one is about expanding functionality and the other is about fixing a performance issue.",
+        "output": "{\"similar\":false}"
+      },
+      {
+        "input": "{\"suggestion_a\":\"Enable pinning images from Safari\",\"suggestion_b\":\"Implement a browser extension to pin and save images from any webpage.\"}",
+        "reasoning": "Suggestion A focuses specifically on enabling pinning images from Safari, while suggestion B talks about implementing a browser extension to pin and save images from any webpage. Although suggestion B is broader and not limited to Safari, both involve pinning images from a browser.",
+        "output": "{\"similar\":true}"
+      },
+      {
+        "input": "{\"suggestion_a\":\"Implement a major update to resolve performance issues and bugs.\",\"suggestion_b\":\"Improve the app's ability to remember the user's position and reduce freezing and crashing during navigation.\"}",
+        "reasoning": "Suggestion A focuses on a major update to resolve performance issues and bugs broadly. Suggestion B specifically mentions improving the app's ability to remember the user's position and reducing freezing and crashing during navigation. While both touch on performance, their specifics and scopes differ significantly.",
+        "output": "{\"similar\":false}"
+      }
+    ]
+  }
+}

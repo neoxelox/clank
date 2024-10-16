@@ -1,0 +1,18 @@
+tunnel: 787ffba8-4e7c-4efb-bf69-3977ae2654b0
+credentials-file: /etc/cloudflared/certs/prod-int.json
+originRequest:
+  access:
+    required: true
+    teamName: clank-so
+    audTag:
+      - 7083ac48f01548c95db29306394466ee1610c5547df8c833288bc8e56430340a # Metabase
+      - 84d4a1016ea396348f7f87e015bb2f0d389e0e6c5686a49b1aae64a88266151a # Asynqmon
+
+ingress:
+  - hostname: api.clank.so
+    service: http://api:1111
+  - hostname: metabase.clank.so
+    service: http://metabase:4444
+  - hostname: asynqmon.clank.so
+    service: http://asynqmon:5555
+  - service: http_status:404
