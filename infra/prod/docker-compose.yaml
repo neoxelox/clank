@@ -107,14 +107,14 @@ services:
       - ./certs/engine:/app/certs
     restart: unless-stopped
 
-  # watchtower:
-  #   image: containrrr/watchtower:1.7.1
-  #   env_file: ./.env
-  #   command: "--interval=${WATCHTOWER_INTERVAL} --cleanup --no-startup-message ${WATCHTOWER_TARGETS}"
-  #   volumes:
-  #     - /var/run/docker.sock:/var/run/docker.sock
-  #     - ./certs/docker/config.json:/config.json
-  #   restart: unless-stopped
+  watchtower:
+    image: containrrr/watchtower:1.7.1
+    env_file: ./.env
+    command: "--interval=${WATCHTOWER_INTERVAL} --cleanup --no-startup-message ${WATCHTOWER_TARGETS}"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./certs/docker/config.json:/config.json
+    restart: unless-stopped
 
   kontrol:
     image: neoxelox/kontrol:1.0.0
